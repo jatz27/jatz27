@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julio Atz</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-- 🔭 I’m currently working on [Lua Neovim](https://github.com/jatz27/dotfiles.config)
+- 🔭 I’m currently working on: [Lua Neovim](https://github.com/jatz27/dotfiles.config)
 
-- 🌱 I’m currently learning **React, Lua y Rust**
+- 🌱 I’m currently learning: **React, Lua y Rust**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about: **JavaScript**
 
-- 📫 How to reach me **julioatz90@gmail.com**
+- 📫 How to reach me: **julioatz90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
