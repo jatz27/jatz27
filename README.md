@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Atz</h1>
-<h3 align="center">An analyst frontend developer from Guatemala :guatemala: </h3>
+<h3 align="center">An analyst frontend developer from Guatemala :blue_square::white_large_square::blue_square: </h3>
 
 - 🔭 I’m currently working on: [Lua Neovim](https://github.com/jatz27/dotfiles.config)
 
