@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: [Lua Neovim](https://github.com/jatz27/dotfiles.config)
 
-- 🌱 I’m currently learning: **React, Lua y Rust**
+- 🌱 I’m currently learning: **TypeScript, React y Rust**
 
 - 💬 Ask me about: **JavaScript**
 
